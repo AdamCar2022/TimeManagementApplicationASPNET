@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManagementASPNET", "TimeManagementASPNET\TimeManagementASPNET.csproj", "{92057186-9F45-4C07-9710-02CC4C7A68FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManagementLibraryPOE", "TimeManagementLibraryPOE\TimeManagementLibraryPOE.csproj", "{CDE9097B-B4DF-49ED-8B1B-D78FB4D16341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92057186-9F45-4C07-9710-02CC4C7A68FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92057186-9F45-4C07-9710-02CC4C7A68FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92057186-9F45-4C07-9710-02CC4C7A68FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92057186-9F45-4C07-9710-02CC4C7A68FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE9097B-B4DF-49ED-8B1B-D78FB4D16341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE9097B-B4DF-49ED-8B1B-D78FB4D16341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE9097B-B4DF-49ED-8B1B-D78FB4D16341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE9097B-B4DF-49ED-8B1B-D78FB4D16341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A49DF1-436F-40F4-8FB9-8C2A4AFB9B5D}
+	EndGlobalSection
+EndGlobal
